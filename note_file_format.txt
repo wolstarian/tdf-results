@@ -1,0 +1,28 @@
+Filename: TdF 2025 Stage 1
+
+---
+tdf-year: 2025
+tdf-stage: 1
+tdf-stage-date: 2025-07-05
+tdf-stage-type: Flat
+tdf-stage-start: Lille Métropole
+tdf-stage-finish: Lille Métropole
+tdf-stage-distance(km): 185
+tdf-stage-winner: Jasper Philipsen
+tdf-yellow: Jasper Philipsen
+tdf-green: Anthony Turgis (for Jasper Philipsen)
+tdf-polkadot: Benjamin Thomas
+tdf-white: Biniam Girmay
+---
+
+or if it's a Rest Day:
+
+Filename: TdF 2025 Rest Day 1
+
+---
+tdf-year: 2025
+tdf-stage-date: 2025-07-15
+tdf-stage-type: Rest Day
+tdf-stage-start: Toulouse
+tdf-stage-finish: Toulouse
+---
