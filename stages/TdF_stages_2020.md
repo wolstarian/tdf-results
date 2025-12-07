@@ -10,14 +10,14 @@
 | Stage 7 | Flat | Friday 4 September 2020 | Millau | Lavaur | 168 km |
 | Stage 8 | Mountain | Saturday 5 September 2020 | Cazères-sur-Garonne | Loudenvielle | 141 km |
 | Stage 9 | Mountain | Sunday 6 September 2020 | Pau | Laruns | 153 km |
-| Rest Day | Rest Day | Monday 7 September 2020 | La Charente-Maritime | La Charente-Maritime | Rest Day |
+| Rest Day | Rest Day 1 | Monday 7 September 2020 | La Charente-Maritime | La Charente-Maritime | |
 | Stage 10 | Flat | Tuesday 8 September 2020 | Île d'Oléron Le Château-d'Oléron | Île de Ré Saint-Martin-de-Ré | 168.5 km |
 | Stage 11 | Flat | Wednesday 9 September 2020 | Châtelaillon-Plage | Poitiers | 167.5 km |
 | Stage 12 | Hilly | Thursday 10 September 2020 | Chauvigny | Sarran Corrèze | 218 km |
 | Stage 13 | Mountain | Friday 11 September 2020 | Châtel-Guyon | Puy Mary Cantal | 191.5 km |
 | Stage 14 | Flat | Saturday 12 September 2020 | Clermont-Ferrand | Lyon | 194 km |
 | Stage 15 | Mountain | Sunday 13 September 2020 | Lyon | Grand Colombier | 174.5 km |
-| Rest Day | Rest Day | Monday 14 September 2020 | Isère | Isère | Rest Day |
+| Rest Day | Rest Day 2 | Monday 14 September 2020 | Isère | Isère | |
 | Stage 16 | Mountain | Tuesday 15 September 2020 | La Tour-du-Pin | Villard-de-Lans | 164 km |
 | Stage 17 | Mountain | Wednesday 16 September 2020 | Grenoble | Méribel Col de la Loze | 170 km |
 | Stage 18 | Mountain | Thursday 17 September 2020 | Méribel | La Roche-sur-Foron | 175 km |

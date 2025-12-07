@@ -10,7 +10,7 @@
 | Stage 7 | Mountain | Friday 8 July 2016 | L’Isle-Jourdain | Lac de Payolle | 162 km |
 | Stage 8 | Mountain | Saturday 9 July 2016 | Pau | Bagnères-de-Luchon | 183 km |
 | Stage 9 | Mountain | Sunday 10 July 2016 | Vielha Val d’Aran | Andorre Arcalis | 184 km |
-| Rest Day | Rest Day | Monday 11 July 2016 | Andorre | Andorre | Rest Day |
+| Rest Day | Rest Day 1 | Monday 11 July 2016 | Andorre | Andorre | |
 | Stage 10 | Mountain | Tuesday 12 July 2016 | Escaldes-Engordany | Revel | 198 km |
 | Stage 11 | Flat | Wednesday 13 July 2016 | Carcassonne | Montpellier | 164 km |
 | Stage 12 | Mountain | Thursday 14 July 2016 | Montpellier | Mont Ventoux | 185 km |
@@ -18,7 +18,7 @@
 | Stage 14 | Flat | Saturday 16 July 2016 | Montélimar | Villars-les-Dombes Parc des Oiseaux | 208 km |
 | Stage 15 | Mountain | Sunday 17 July 2016 | Bourg-en-Bresse | Culoz | 159 km |
 | Stage 16 | Flat | Monday 18 July 2016 | Moirans-en-Montagne | Berne | 206 km |
-| Rest Day | Rest Day | Tuesday 19 July 2016 | Berne | Berne | Rest Day |
+| Rest Day | Rest Day 2 | Tuesday 19 July 2016 | Berne | Berne | |
 | Stage 17 | Mountain | Wednesday 20 July 2016 | Berne | Finhaut-Emosson | 184 km |
 | Stage 18 | ITT | Thursday 21 July 2016 | Sallanches | Megève | 17 km |
 | Stage 19 | Mountain | Friday 22 July 2016 | Albertville | Saint-Gervais Mont Blanc | 146 km |

@@ -11,13 +11,13 @@
 | Stage 8 | Hilly | Saturday 13 July 2019 | Macon | Saint-Etienne | 200 km |
 | Stage 9 | Hilly | Sunday 14 July 2019 | Saint-Etienne | Brioude | 170.5 km |
 | Stage 10 | Flat | Monday 15 July 2019 | Saint-Flour | Albi | 217.5 km |
-| Rest Day | Rest Day | Tuesday 16 July 2019 | Albi | Albi | Rest Day |
+| Rest Day | Rest Day 1 | Tuesday 16 July 2019 | Albi | Albi | |
 | Stage 11 | Flat | Wednesday 17 July 2019 | Albi | Toulouse | 167 km |
 | Stage 12 | Mountain | Thursday 18 July 2019 | Toulouse | Bagneres-De-Bigorre | 209.5 km |
 | Stage 13 | ITT | Friday 19 July 2019 | Pau (ITT) | Pau (ITT) | 27.2 km |
 | Stage 14 | Mountain | Saturday 20 July 2019 | Tarbes | Tourmalet | 117.5 km |
 | Stage 15 | Mountain | Sunday 21 July 2019 | Limoux | Foix | 185 km |
-| Rest Day | Rest Day | Monday 22 July 2019 | Nimes | Nimes | Rest Day |
+| Rest Day | Rest Day 2 | Monday 22 July 2019 | Nimes | Nimes | |
 | Stage 16 | Flat | Tuesday 23 July 2019 | Nimes | Nimes | 177 km |
 | Stage 17 | Flat | Wednesday 24 July 2019 | Pont Du Gard | Gap | 200 km |
 | Stage 18 | Mountain | Thursday 25 July 2019 | Embrun | Valloire | 208 km |
