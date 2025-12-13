@@ -1,0 +1,20 @@
+# Some data we want to embed in the text
+user_name = "Alice"
+items = ["apples", "bananas", "cherries"]
+total = len(items)
+
+# Build each line with an f‑string
+lines = [
+    f"Hello, {user_name}!",                     # line 1 – greeting
+    f"You have {total} items in your basket:", # line 2 – count
+    f"- {', '.join(items)}",                    # line 3 – list them
+    "Thanks for using our service!"             # line 4 – static text
+]
+
+# Join the lines with newline characters
+content = "\n".join(lines) + "\n"   # trailing newline is optional but common
+
+# Write the multi‑line string to a file
+with open("output.txt", "w", encoding="utf-8") as f:
+    f.write(content)
+

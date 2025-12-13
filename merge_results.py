@@ -11,7 +11,7 @@ stagespath = f'{Path(__file__).resolve().parent}/stages'
 
 def read_results_file(year: int):
     reslines = []
-    with open(f'{resultspath}/TdF_results_20{str(year)}.md', 'r') as resfile:
+    with open(f'{resultspath}/TdF_results_{str(year)}.md', 'r') as resfile:
         for line in resfile:
             if line.startswith('|'):
                 reslines.append(line)
@@ -36,7 +36,7 @@ def read_results_file(year: int):
 
 def read_stages_file(year: int):
     reslines = []
-    with open(f'{stagespath}/TdF_stages_20{str(year)}.md', 'r') as resfile:
+    with open(f'{stagespath}/TdF_stages_{str(year)}.md', 'r') as resfile:
         for line in resfile:
             if line.startswith('|'):
                 reslines.append(line)
@@ -61,7 +61,7 @@ def read_stages_file(year: int):
         }
     return res_table
 
-year = 20
+year = 2019
 r_table = read_results_file(year)
 #for k in r_table:
 #    print(f"{k}: {r_table[k]}")
@@ -81,5 +81,10 @@ for sk in s_table:
 for sk in s_table:
     print(f"{sk}: {s_table[sk]}\n")
 
-
+'''
+for year in range(2012, 2025):
+    build s_table for the year
+    write out the dictionary items as separate MD files into the data_files folder
+        note difference between a stage day and a rest day
+'''
 
