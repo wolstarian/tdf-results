@@ -10,14 +10,14 @@
 | Stage 7 | Hilly | Friday 2 July 2021 | Vierzon | Le Creusot | 249.1 km |
 | Stage 8 | Mountain | Saturday 3 July 2021 | Oyonnax | Le Grand-Bornand | 150.8 km |
 | Stage 9 | Mountain | Sunday 4 July 2021 | Cluses | Tignes | 144.9 km |
-| Rest Day | Rest Day 1 | Monday 5 July 2021 | Tignes | Tignes | |
+| Rest Day 1 | Rest Day | Monday 5 July 2021 | Tignes | Tignes | |
 | Stage 10 | Flat | Tuesday 6 July 2021 | Albertville | Valence | 190.7 km |
 | Stage 11 | Mountain | Wednesday 7 July 2021 | Sorgues | Malaucène | 198.9 km |
 | Stage 12 | Flat | Thursday 8 July 2021 | Saint-Paul-Trois-Châteaux | Nîmes | 159.4 km |
 | Stage 13 | Flat | Friday 9 July 2021 | Nîmes | Carcassonne | 219.9 km |
 | Stage 14 | Hilly | Saturday 10 July 2021 | Carcassonne | Quillan | 183.7 km |
 | Stage 15 | Mountain | Sunday 11 July 2021 | Céret | Andorre-la-Vieille | 191.3 km |
-| Rest Day | Rest Day 2 | Monday 12 July 2021 | Andorre | Andorre | |
+| Rest Day 2 | Rest Day | Monday 12 July 2021 | Andorre | Andorre | |
 | Stage 16 | Hilly | Tuesday 13 July 2021 | Pas de la Case | Saint-Gaudens | 169 km |
 | Stage 17 | Mountain | Wednesday 14 July 2021 | Muret | Saint-Lary-Soulan Col du Portet | 178.4 km |
 | Stage 18 | Mountain | Thursday 15 July 2021 | Pau | Luz Ardiden | 129.7 km |

@@ -11,13 +11,13 @@
 | Stage 8 | Mountain | Saturday 12 July 2014 | Tomblaine | Gérardmer La Mauselaine | 161 km |
 | Stage 9 | Mountain | Sunday 13 July 2014 | Gérardmer | Mulhouse | 170 km |
 | Stage 10 | Mountain | Monday 14 July 2014 | Mulhouse | La Planche des Belles Filles | 161.5 km |
-| Rest Day | Rest Day 1 | Tuesday 15 July 2014 | Besançon | Besançon | |
+| Rest Day 1 | Rest Day | Tuesday 15 July 2014 | Besançon | Besançon | |
 | Stage 11 | Hilly | Wednesday 16 July 2014 | Besançon | Oyonnax | 187.5 km |
 | Stage 12 | Hilly | Thursday 17 July 2014 | Bourg-en-Bresse | Saint-Étienne | 185.5 km |
 | Stage 13 | Mountain | Friday 18 July 2014 | Saint-Étienne | Chamrousse | 197.5 km |
 | Stage 14 | Mountain | Saturday 19 July 2014 | Grenoble | Risoul | 177 km |
 | Stage 15 | Flat | Sunday 20 July 2014 | Tallard | Nîmes | 222 km |
-| Rest Day | Rest Day 2 | Monday 21 July 2014 | Carcassonne | Carcassonne | |
+| Rest Day 2 | Rest Day | Monday 21 July 2014 | Carcassonne | Carcassonne | |
 | Stage 16 | Mountain | Tuesday 22 July 2014 | Carcassonne | Bagnères-de-Luchon | 237.5 km |
 | Stage 17 | Mountain | Wednesday 23 July 2014 | Saint-Gaudens | Saint-Lary Pla d’Adet | 124.5 km |
 | Stage 18 | Mountain | Thursday 24 July 2014 | Pau | Hautacam | 145.5 km |
