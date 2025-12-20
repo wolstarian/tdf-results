@@ -1,8 +1,8 @@
 ## The Tour de France 2015 Stage and Race Results
 | Stage | Stage Winner | Yellow Jersey | Green Jersey | Polka-Dot Jersey | White Jersey | 
 | --- | --- | --- | --- | --- | --- |
-| Stage 1 | Rohan Dennis | Rohan Dennis | Rohan Dennis | --- | Rohan Dennis | 
-| Stage 2 | Andre Greipel | Fabian Cancellara | Andre Greipel | --- | Tom Dumoulin | 
+| Stage 1 | Rohan Dennis | Rohan Dennis | Rohan Dennis | n/a | Rohan Dennis | 
+| Stage 2 | Andre Greipel | Fabian Cancellara | Andre Greipel | n/a | Tom Dumoulin | 
 | Stage 3 | Joaquim Rodriguez | Chris Froome | Andre Greipel | Joaquim Rodriguez | Peter Sagan | 
 | Stage 4 | Tony Martin | Tony Martin | Andre Greipel | Joaquim Rodriguez | Peter Sagan | 
 | Stage 5 | Andre Greipel | Tony Martin | Andre Greipel | Joaquim Rodriguez | Peter Sagan | 

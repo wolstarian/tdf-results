@@ -6,6 +6,8 @@ from dateutil import parser
 
 resultspath = f'{Path(__file__).resolve().parent}/results'
 stagespath = f'{Path(__file__).resolve().parent}/stages'
+datapath = f'{Path(__file__).resolve().parent}/data_files'
+full_file = f'{Path(__file__).resolve().parent}/full_file.txt'
 
 #print(resultspath)
 
@@ -61,30 +63,55 @@ def read_stages_file(year: int):
         }
     return res_table
 
-year = 2019
-r_table = read_results_file(year)
-#for k in r_table:
-#    print(f"{k}: {r_table[k]}")
+def merge_and_output(year: int):
+    r_table = read_results_file(year)
+    s_table = read_stages_file(year)
 
-s_table = read_stages_file(year)
-#for k in s_table:
-#    print(f"{k}: {s_table[k]}")
+    # Merge results into stages; goes into s_table
+    for sk in s_table:
+        for rk in r_table:
+            if rk == f"Stage {s_table[sk]['tdf-stage']}":
+                s_table[sk].update(r_table[rk])
+                break
+            if rk == 'Prologue' and s_table[sk]['tdf-stage'] == 'Prologue':
+                s_table[sk].update(r_table[rk])
+                break
 
-for sk in s_table:
-    for rk in r_table:
-        if rk == f"Stage {s_table[sk]['tdf-stage']}":
-            #print(f"Merging {rk} into {sk}")
-            s_table[sk].update(r_table[rk])
-            #print(f"After merge: {sk}: {s_table[sk]}\n")
-            break
+    content = ""
+    for sk in s_table:
+        if s_table[sk]['tdf-stage-type'] in ('Rest Day', 'Travel Day'):
+            is_stage = ""
+        else:
+            is_stage = "Stage "
+        #print(f"{sk}: {s_table[sk]}")
+        datamdfile = f"{datapath}/TdF {year} {is_stage}{s_table[sk]['tdf-stage']}.md"
+        lines = [
+            "---",
+            f"tdf-year: {year}",
+            f"tdf-stage-date: {sk}",
+            f"tdf-stage-type: {s_table[sk]['tdf-stage-type']}",
+            f"tdf-stage-start: {s_table[sk]['tdf-stage-start']}",
+            f"tdf-stage-finish: {s_table[sk]['tdf-stage-finish']}",
+        ]
+        if s_table[sk]['tdf-stage-type'] not in ('Rest Day', 'Travel Day'):
+            lines.extend([
+                f"tdf-stage: {s_table[sk]['tdf-stage']}",
+                f"tdf-stage-distance(km): {s_table[sk]['tdf-stage-distance']}",
+                f"tdf-stage-winner: {s_table[sk]['tdf-stage-winner']}",
+                f"tdf-yellow: {s_table[sk]['tdf-yellow']}",
+                f"tdf-green: {s_table[sk]['tdf-green']}",
+                f"tdf-polkadot: {s_table[sk]['tdf-polkadot']}",
+                f"tdf-white: {s_table[sk]['tdf-white']}",
+            ])
+        lines.append("---")
+        content += "\n".join(lines) + "\n"   # trailing newline is optional but common
+        #print(content)
+        #print(datamdfile)
+        with open(datamdfile, 'w') as outfile:
+            outfile.write("\n".join(lines) + "\n")
 
-for sk in s_table:
-    print(f"{sk}: {s_table[sk]}\n")
+    return content
 
-'''
-for year in range(2012, 2025):
-    build s_table for the year
-    write out the dictionary items as separate MD files into the data_files folder
-        note difference between a stage day and a rest day
-'''
-
+for y in range(2012, 2025):
+    print(y)
+    merge_and_output(y)

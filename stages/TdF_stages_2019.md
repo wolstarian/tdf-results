@@ -2,7 +2,7 @@
 | Stage | Type | Date | Start | Finish | Distance |
 | --- | --- | --- | --- | --- | --- |
 | Stage 1  | Flat | Saturday 6 July 2019 | Brussels | Brussels | 194.5 km |
-| Stage 2  | TTT | Sunday 7 July 2019 | Brussels (TTT) | Brussels (TTT) | 27.6 km |
+| Stage 2  | TTT | Sunday 7 July 2019 | Brussels | Brussels | 27.6 km |
 | Stage 3  | Hilly | Monday 8 July 2019 | Binche | Epernay | 215 km |
 | Stage 4  | Flat | Tuesday 9 July 2019 | Reims | Nancy | 213.5 km |
 | Stage 5 | Hilly | Wednesday 10 July 2019 | Saint-Die-Des-Vosges | Colmar | 175.5 km |
@@ -14,7 +14,7 @@
 | Rest Day 1 | Rest Day | Tuesday 16 July 2019 | Albi | Albi | |
 | Stage 11 | Flat | Wednesday 17 July 2019 | Albi | Toulouse | 167 km |
 | Stage 12 | Mountain | Thursday 18 July 2019 | Toulouse | Bagneres-De-Bigorre | 209.5 km |
-| Stage 13 | ITT | Friday 19 July 2019 | Pau (ITT) | Pau (ITT) | 27.2 km |
+| Stage 13 | ITT | Friday 19 July 2019 | Pau | Pau | 27.2 km |
 | Stage 14 | Mountain | Saturday 20 July 2019 | Tarbes | Tourmalet | 117.5 km |
 | Stage 15 | Mountain | Sunday 21 July 2019 | Limoux | Foix | 185 km |
 | Rest Day 2 | Rest Day | Monday 22 July 2019 | Nimes | Nimes | |
